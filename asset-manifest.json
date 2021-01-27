@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/holiday/static/css/main.2044551d.chunk.css",
+    "main.js": "/holiday/static/js/main.741b06a0.chunk.js",
+    "main.js.map": "/holiday/static/js/main.741b06a0.chunk.js.map",
+    "runtime-main.js": "/holiday/static/js/runtime-main.a647f96f.js",
+    "runtime-main.js.map": "/holiday/static/js/runtime-main.a647f96f.js.map",
+    "static/js/2.0a999c90.chunk.js": "/holiday/static/js/2.0a999c90.chunk.js",
+    "static/js/2.0a999c90.chunk.js.map": "/holiday/static/js/2.0a999c90.chunk.js.map",
+    "static/js/3.1d697c18.chunk.js": "/holiday/static/js/3.1d697c18.chunk.js",
+    "static/js/3.1d697c18.chunk.js.map": "/holiday/static/js/3.1d697c18.chunk.js.map",
+    "index.html": "/holiday/index.html",
+    "static/css/main.2044551d.chunk.css.map": "/holiday/static/css/main.2044551d.chunk.css.map",
+    "static/js/2.0a999c90.chunk.js.LICENSE.txt": "/holiday/static/js/2.0a999c90.chunk.js.LICENSE.txt",
+    "static/media/11.aa975889.webp": "/holiday/static/media/11.aa975889.webp",
+    "static/media/back.e4aa2e54.jpg": "/holiday/static/media/back.e4aa2e54.jpg",
+    "static/media/pic.5d841422.jpg": "/holiday/static/media/pic.5d841422.jpg",
+    "static/media/spt.4ce4414d.jpg": "/holiday/static/media/spt.4ce4414d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a647f96f.js",
+    "static/js/2.0a999c90.chunk.js",
+    "static/css/main.2044551d.chunk.css",
+    "static/js/main.741b06a0.chunk.js"
+  ]
+}
